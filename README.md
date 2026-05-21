@@ -124,7 +124,7 @@ Actualmente enfocado en:
 # 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/camilo-vera-piñeres-306196257
-- GitHub: https://github.com/TU-USUARIO
+- GitHub: https://github.com/DearTitan70
 
 ---
 

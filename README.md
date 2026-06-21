@@ -14,10 +14,11 @@ Actualmente trabajo desarrollando automatizaciones empresariales y construyendo 
 - Node.js
 - TypeScript
 - NestJS
-- Express
+- Prisma
 
 ### Frontend
 - React
+- Vite
 - JavaScript
 - HTML5
 - CSS3
@@ -125,9 +126,4 @@ Actualmente enfocado en:
 
 - LinkedIn: https://www.linkedin.com/in/camilo-vera-piñeres-306196257
 - GitHub: https://github.com/DearTitan70
-
----
-
-# ⚙️ Fun Fact
-
-I probably debug faster with techno playing in the background. 🎧
+- Correo: camilov0310@gmail.com
